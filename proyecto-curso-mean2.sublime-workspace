@@ -1,0 +1,1055 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"st",
+				"style.css"
+			],
+			[
+				"onC",
+				"onClick\t(index.js)"
+			],
+			[
+				"Tab",
+				"TabD.js"
+			],
+			[
+				"back",
+				"backgroundColor\t(BikeRouteTrigger.js)"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"Bik",
+				"BikeInfo"
+			],
+			[
+				"Bi",
+				"BikeInfo"
+			],
+			[
+				"M",
+				"MuiThemeProvider"
+			],
+			[
+				"Bike",
+				"BikeRouteTrigger"
+			],
+			[
+				"Mo",
+				"ModalLocation"
+			],
+			[
+				"Map",
+				"MapContainer/"
+			],
+			[
+				"O",
+				"OverlayTrigger"
+			],
+			[
+				"text",
+				"textAlign\tenum('auto', 'left', 'right', 'center', 'justify')"
+			],
+			[
+				"B",
+				"BikeRouteTrigger"
+			],
+			[
+				"F",
+				"Favorites"
+			],
+			[
+				"rend",
+				"render()\tzoom.js"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"bor",
+				"borderRadius\tnumber"
+			],
+			[
+				"icon",
+				"iconStyles"
+			],
+			[
+				"cl",
+				"className\t(index.js)"
+			],
+			[
+				"Fo",
+				"FontIcon"
+			],
+			[
+				"Font",
+				"FontAwesome"
+			],
+			[
+				"compo",
+				"components/"
+			],
+			[
+				"C",
+				"Component\t(index.js)"
+			],
+			[
+				"S",
+				"SideTrigger"
+			],
+			[
+				"AppB",
+				"AppBarExampleIcon"
+			],
+			[
+				"Ma",
+				"MapContainer/"
+			],
+			[
+				"comp",
+				"components/"
+			],
+			[
+				"App",
+				"AppBar"
+			],
+			[
+				"m",
+				"MuiThemeProvider"
+			],
+			[
+				"foo",
+				"foo-about"
+			],
+			[
+				"move",
+				"moveY"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"pr",
+				"pregunta"
+			],
+			[
+				"ano",
+				"AnotherQuestion/"
+			],
+			[
+				"another",
+				"anotherQuestions"
+			],
+			[
+				"anote",
+				"anotherQuestions"
+			],
+			[
+				"P",
+				"Preguntas"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"http",
+				"https"
+			],
+			[
+				"pro",
+				"profile"
+			],
+			[
+				"bo",
+				"bottom\t(style.css)"
+			],
+			[
+				"ri",
+				"right\t(style.css)"
+			],
+			[
+				"Git",
+				"Github"
+			],
+			[
+				"an",
+				"anotherQuestion"
+			],
+			[
+				"as",
+				"answerTrue"
+			],
+			[
+				"ans",
+				"answerTrue"
+			],
+			[
+				"anser",
+				"answerTrue"
+			],
+			[
+				"set",
+				"setState"
+			],
+			[
+				"true",
+				"answerTrue"
+			],
+			[
+				"com",
+				"componentWillMount"
+			],
+			[
+				"se",
+				"searchText"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"ran",
+				"randomNumber"
+			],
+			[
+				"le",
+				"left-align"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"ab",
+				"about\t(index.html)"
+			],
+			[
+				"fade",
+				"fadeInDown\t(index.html)"
+			],
+			[
+				"side",
+				"side-navbar\t(index.html)"
+			],
+			[
+				"ce",
+				"center-align"
+			],
+			[
+				"align-",
+				"align-self"
+			],
+			[
+				"flex",
+				"flex-end"
+			],
+			[
+				"v",
+				"visible"
+			],
+			[
+				"center",
+				"center-align"
+			],
+			[
+				"co",
+				"counter"
+			],
+			[
+				"addTo",
+				"addToCart()\tscript.js"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"c",
+				"cart"
+			],
+			[
+				"aut",
+				"authentication"
+			],
+			[
+				"btn",
+				"btnLogout"
+			],
+			[
+				"id",
+				"id=\"encabezado"
+			],
+			[
+				"dis",
+				"displayName"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"sear",
+				"searchPokemon"
+			],
+			[
+				"abi",
+				"ability1"
+			],
+			[
+				"to",
+				"toLowerCase()"
+			],
+			[
+				"searc",
+				"searchedPoke"
+			],
+			[
+				"poke",
+				"pokeinfo"
+			],
+			[
+				"respon",
+				"responseContainer"
+			],
+			[
+				"head",
+				"headline\t(app.js)"
+			],
+			[
+				"new",
+				"newPosition"
+			],
+			[
+				"goo",
+				"google.maps.Marker"
+			],
+			[
+				"la",
+				"laboratoriaLima"
+			],
+			[
+				"na",
+				"navigator.geolocation.getCurrentPosition"
+			],
+			[
+				"coord",
+				"coords"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"img",
+				"imgfigcaptionhover"
+			],
+			[
+				"fig",
+				"figcaption"
+			],
+			[
+				"super",
+				"super2.html\t(app.js)"
+			],
+			[
+				"modal",
+				"modal-signup\t(index.html)"
+			],
+			[
+				"modal-sign",
+				"modal-signin\t(index.html)"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"r",
+				"redes-sociales.png\tw:626 h:364"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"logo",
+				"logoFood"
+			],
+			[
+				"fa",
+				"fadeOut"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"class",
+				"className\t(MovementList.js)"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"Movement",
+				"MovementList"
+			],
+			[
+				"inici",
+				"inicia-sesion"
+			],
+			[
+				"re",
+				"registrate"
+			],
+			[
+				"res",
+				"registrate"
+			],
+			[
+				"data",
+				"data-toggle"
+			],
+			[
+				"i",
+				"inside"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"list-s",
+				"list-style-image"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"col",
+				"col-lg"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"PADD",
+				"padding-bottom"
+			],
+			[
+				"posi",
+				"object-position"
+			],
+			[
+				"obj",
+				"object-fit"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"row",
+				"rowspan\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 207,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "p",
+		"selected_items":
+		[
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Upgrade/Overwrite All Packages"
+			]
+		],
+		"width": 483.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Paz Autumn/Documents/DesarrolloBE/Proyectos/curso-mean2"
+	],
+	"file_history":
+	[
+		"/C/Users/Paz Autumn/Documents/DesarrolloBE/Proyectos/validaotp-Desarrollo-CI-7bf284977b0a2358d460a0e326d4a0d51ae90ba5/README.md",
+		"/C/cygwin_packages/home/Paz Autumn/.bash_profile",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/PazAutumn/assets/css/style.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/PazAutumn/index.html",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Hackathon-2/BikeSantiago/src/App.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Hackathon-2/BikeSantiago/src/components/BikeMap/MapContainer/IconBar/index.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Hackathon-2/BikeSantiago/src/components/BikeMap/MapContainer/IconBar/style.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Hackathon-2/BikeSantiago/src/components/BikeMap/index.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Hackathon-2/BikeSantiago/src/components/Form/Form.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Hackathon-2/BikeSantiago/src/components/BikeMap/MapContainer/BikeInfo.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Hackathon-2/BikeSantiago/src/components/BikeMap/MapContainer/index.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Hackathon-2/BikeSantiago/src/components/BikeMap/MapContainer/IconBar/TabD.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Hackathon-2/BikeSantiago/src/components/BikeMap/MapContainer/BikeRouteTrigger.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Hackathon-2/BikeSantiago/src/components/BikeMap/MapContainer/style.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Hackathon-2/BikeSantiago/src/components/BikeMap/MapContainer/IconBar/TabC.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Hackathon-2/BikeSantiago/src/components/BikeMap/MapContainer/IconBar/TabB.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Hackathon-2/BikeSantiago/package.json",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Hackathon-2/BikeSantiago/src/index.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Hackathon-2/BikeSantiago/package-lock.json",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Hackathon-2/BikeSantiago/public/index.html",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Hackathon-2/BikeSantiago/src/components/BikeMap/MapContainer/ModalLocation.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Hackathon-2/BikeSantiago/src/components/BikeMap/MapContainer/IconBar/TabA.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/WeatherLocation/proyecto/src/App.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Hackathon-2/BikeSantiago/src/components/BikeMap/MapContainer/SideTrigger.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Hackathon-2/BikeSantiago/src/components/BikeMap/MapContainer/BikeRoute.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Hackathon-2/BikeSantiago/src/components/BikeMap/index.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Hackathon-2/BikeSantiago/src/App.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Hackathon-2/BikeSantiago/src/components/BikeMap/MapContainer/index.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/PazAutumn/assets/js/app.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/PazAutumn/assets/js/smoove.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/WeatherLocation/proyecto/src/components/ForecastExtended.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/WeatherLocation/proyecto/src/components/ForecastItem/index.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/Trivia-React/src/components/TriviaContainer/Preguntas/AnotherQuestion/index.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/Trivia-React/src/components/TriviaContainer/Preguntas/index.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/Trivia-React/src/components/TriviaContainer/Preguntas/anotherQuestion/index.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/WeatherLocation/proyecto/src/components/LocationList.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/WeatherLocation/proyecto/src/components/WeatherLocation/index.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/Trivia-React/src/components/TriviaContainer/Botones/index.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/Trivia-React/package.json",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/Trivia-React/src/App.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/Trivia-React/src/index.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/hackathon-1/assets/js/app.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/hackathon-1/index.html",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/hackathon-1/assets/css/style.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/hackathon-1/assets/js/UserLoggedIn.js",
+		"/C/Users/Paz Autumn/Desktop/css/style.css",
+		"/C/Users/Paz Autumn/Desktop/js/index.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/PazAutumn/assets/css/welcome.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/PazAutumn/assets/js/welcome.js",
+		"/C/Users/Paz Autumn/Desktop/index.html",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/WeatherLocation/proyecto/src/components/WeatherLocation/WeatherData/WeatherTemperature.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/WeatherLocation/proyecto/src/components/WeatherLocation/WeatherData/WeatherExtraInfo.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/reactexercise/src/components/WeatherLocation/WeatherData/WeatherExtraInfo.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/WeatherLocation/proyecto/src/components/WeatherLocation/WeatherData/styles.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/WeatherLocation/proyecto/src/components/WeatherLocation/WeatherData/index.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/reactexercise/public/index.html",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/react-ejemplo/index.html",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/beautysales-spa/assets/js/script.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/beautysales-spa/products.json",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/beautysales-spa/assets/css/style.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/beautysales-spa/index.html",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/beautysales-spa/.gitignore",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/caracolaresponde/assets/js/app.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/caracolaresponde/assets/css/main.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/caracolaresponde/index.html",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/chat-example/css/style.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/chat-example/js/app.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/chat-example/index.html",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/ny/assets/js/app.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/starwarslibrary/assets/js/app.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/pokedex/assets/js/app.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/pokedex/assets/css/style.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/pokedex/index.html",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/easy-vreco/assets/css/style.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/geolocation/assets/js/app.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/easy-vreco/assets/js/app.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/easy-vreco/index.html",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/geolocation/assets/css/style.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/geolocation/index.html",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/Reproductor-musica/assets/css/style.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/Reproductor-musica/assets/js/app.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/Reproductor-musica/index.html",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/Reproductor musica/assets/js/app.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/Reproductor musica/assets/css/style.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/Reproductor musica/index.html",
+		"/C/Users/Paz Autumn/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/ejemplocardify/node_modules/cardify/src/cardify.js",
+		"/C/Users/Paz Autumn/AppData/Roaming/Sublime Text 3/Packages/User/ESLint.sublime-settings",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/hackathon-1/profile.html",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/hackathon-1/UserLoggedIn.html",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/hackathon-1/assets/css/UserLoggedIn.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/hackathon-1/assets/js/appCarousel.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/hackathon-1/.eslintrc",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/FicFanM/assets/js/app.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/FicFanM/assets/css/style.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/FicFanM/index.html",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/lyft-mobile/index.html",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/lyft/index.html",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/FicFan/assets/css/style.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/FicFan/index.html",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/lyft-mobile/assets/js/app.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/lyft-mobile/assets/js/appp.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/lyft-mobile/assets/css/style.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/lyft-mobile/assets/css/styless.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/data-dashboard/js/app.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/foodmap/assets/css/media.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/data-dashboard/js/data.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/test_js/style.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/carousel/index.html",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/carousel/assets/css/style.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/carousel/assets/js/app.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Documentos/fullstack-workshop-2/index.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Documentos/fullstack-workshop-2/components/AccountForm/AccountForm.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Documentos/workshop/.babelrc",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Documentos/workshop/index.html",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Documentos/workshop/components/MovementList/MovementList.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Documentos/workshop/components/MovementList/MovementList.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Documentos/workshop/utils/FinancialAxios.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Documentos/workshop/index.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Documentos/workshop/components/Movement/Movement.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Documentos/workshop/components/Movement/Movement.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Documentos/workshop/package.json",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/lab-car-boilerplate/assets/css/media.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/lab-car-boilerplate/assets/css/main.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/lab-car-boilerplate/index.html",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/lab-car-boilerplate/js/app.js",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/lab-car-boilerplate/css/main.css",
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/lab-car-boilerplate/css/media.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"onSelectedLocation",
+			"handleWeatherLocationClick",
+			"onWeatherLocationClick",
+			"-->"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										205,
+										206
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										205,
+										206
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 285.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proyecto-curso-mean2.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
