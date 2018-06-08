@@ -33,7 +33,7 @@ function saveUser(req, res){
 				//Guardar usuario
 				user.save((err, userStored) => {
 					if(err){
-						res.status(500).send({message: 'Error al gurdar usuario'});
+						res.status(500).send({message: 'Error al guardar usuario'});
 					}else{
 						if(!userStored){
 							res.status(404).send({message: 'No se ha registrado el usuario'});
