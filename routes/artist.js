@@ -9,5 +9,7 @@ api.get('/artist/:id', md_auth.ensureAuth, artistController.getArtist);
 api.post('/artist', md_auth.ensureAuth, artistController.saveArtist);
 api.get('/artists/:page?', md_auth.ensureAuth, artistController.getArtists);
 api.put('/artist/:id', md_auth.ensureAuth, artistController.updateArtist);
+api.delete('/artist/:id', md_auth.ensureAuth, artistController.deleteArtist);
+
 
 module.exports = api;

@@ -4,6 +4,98 @@
 		"selected_items":
 		[
 			[
+				"upda",
+				"updateArtist"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"save",
+				"saveArtist"
+			],
+			[
+				"art",
+				"artistStored"
+			],
+			[
+				"path",
+				"pathFile"
+			],
+			[
+				"res",
+				"res"
+			],
+			[
+				"user",
+				"userUpdated"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"find",
+				"findByIdAndUpdate"
+			],
+			[
+				"ext",
+				"extSplit"
+			],
+			[
+				"upload",
+				"uploadImage\t(user.js)"
+			],
+			[
+				"md",
+				"md_upload"
+			],
+			[
+				"up",
+				"uploadImage"
+			],
+			[
+				"se",
+				"secret"
+			],
+			[
+				"ser",
+				"services/"
+			],
+			[
+				"login",
+				"loginUser"
+			],
+			[
+				"new",
+				"newUser"
+			],
+			[
+				"b",
+				"bcrypt"
+			],
+			[
+				"fun",
+				"function\t(index.js)"
+			],
+			[
+				"Number",
+				"Number\t(album.js)"
+			],
+			[
+				"User",
+				"userSchema\tuser.js"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"bod",
+				"bodyParser"
+			],
+			[
 				"pad",
 				"padding"
 			],
@@ -108,10 +200,6 @@
 				"Component\t(index.js)"
 			],
 			[
-				"S",
-				"SideTrigger"
-			],
-			[
 				"AppB",
 				"AppBarExampleIcon"
 			],
@@ -214,10 +302,6 @@
 			[
 				"com",
 				"componentWillMount"
-			],
-			[
-				"se",
-				"searchText"
 			],
 			[
 				"con",
@@ -332,10 +416,6 @@
 				"headline\t(app.js)"
 			],
 			[
-				"new",
-				"newPosition"
-			],
-			[
 				"goo",
 				"google.maps.Marker"
 			],
@@ -434,97 +514,20 @@
 			[
 				"inici",
 				"inicia-sesion"
-			],
-			[
-				"re",
-				"registrate"
-			],
-			[
-				"res",
-				"registrate"
-			],
-			[
-				"data",
-				"data-toggle"
-			],
-			[
-				"i",
-				"inside"
-			],
-			[
-				"list",
-				"list-style-type"
-			],
-			[
-				"n",
-				"none"
-			],
-			[
-				"list-s",
-				"list-style-image"
-			],
-			[
-				"mar",
-				"margin"
-			],
-			[
-				"ali",
-				"align-content"
-			],
-			[
-				"bak",
-				"background-color"
-			],
-			[
-				"w",
-				"white"
-			],
-			[
-				"te",
-				"text-align"
-			],
-			[
-				"col",
-				"col-lg"
-			],
-			[
-				"padding",
-				"padding"
-			],
-			[
-				"op",
-				"opacity"
-			],
-			[
-				"PADD",
-				"padding-bottom"
-			],
-			[
-				"posi",
-				"object-position"
-			],
-			[
-				"obj",
-				"object-fit"
-			],
-			[
-				"border-",
-				"border-bottom"
-			],
-			[
-				"row",
-				"rowspan\tAttr"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "package.json",
+			"contents": "Package Control Messages\n========================\n\nMarkdownPreview\n---------------\n\n  # Changes\n  \n  ## 2.1.0\n  \n  - Add support for KaTeX math.\n  - Ensure MathJax properly looks for `\\begin{env}...\\end{env}`.\n  - Unified menu.\n  \n  ## 2.0.3\n  \n  - MathJax should only scan for `arithmatex` classes in HTML.\n  \n  ## 2.0.2\n  \n  - Code highlighting should have guessing disabled by default.\n  - Fix failure when code highlighting has guessing enabled, but the user specified a language name which has no lexer.\n  \n  ## 2.0.1\n  \n  - Fix missing code highlight extension.\n  - Fix build command failing.\n  \n  ## 2.0.0\n  \n  Please read documentation as there have been big changes in this version which may require updates to your personal settings.\n  \n  * Do not vendor Python Markdown. Python Markdown will be acquired via the current markdown dependency.\n  \n  * Python Markdown configuration changes:\n  \n      * No more defining settings as `extension(option1=a,option2=b)`. Options will be defined as a dictionary.\n      * You will have to define the full extension name: `markdown.extensions.codehilite`. This will allow you to import any extension you want outside of Markdown Preview.\n      * New line to `<br>` conversion has been dropped from GitHub emulation as GitHub no longer does this. Ref issue #374.\n  \n  * Originally a couple pymdownx-extension extensions were ported over to this plugin to give a GitHub-ish feel to Markdown, these are no longer be included directly, but are included as a dependency. This will provide the latest versions, and also provide new extensions previously not included. Ref issue #378.\n  \n  * Drop ST2 so we no longer have to provide specially crafted Python Markdown versions when we try to upgrade.\n  \n  * Improve yaml front matter parsing: see issue #392.\n  \n  * Better UML JavaScript injection.\n  \n  * Link contributors in readme.\n  \n  * Remove \"magic\" Pygments configuration. User will now explicitly configure Pygments CSS injection separately.\n  \n  * Require explicit parser name moving forward instead of default, but provide a deprecation path for the short term.\n  \n  * Fix GitHub header ID generation. GitHub only lowercases ASCII chars.\n  \n  * Ensure default parser is Python Markdown, and enable auto-reload by default.\n  \n  * Hopefully better documentation.\n  \n  * Make flake8 compatible.\n  \n  * Fix outdated links.\n  \n  * Remove MathJax and UML option in favor of a more generalized solution via the pre-existing `css` option.\n  \n  * Remove `embed_css_for_sublime_output` option in favor of more generalized `include_head` option.\n  \n  ## 1.4.3\n  \n  * Fix issue where Chrome prevents live reload.\n  \n  ## 1.4.0\n  \n  * `css` setting can now be an array and contain multiple CSS files (see settings file for more info).\n  * Updated GitHub style to latest.\n  \n  ## 1.3.0\n  \n  * Now supports any markdown parser through a generalized method.  Now you can map a binary to parser name via `markdown_binary_map`.  Then use the parser name in `enabled_parsers` to use it.\n  * MultiMarkdown specific settings have been removed.  MultiMarkdown should now be configured via `markdown_binary_map` and `enabled_parsers`.\n  * Upgraded to Python Markdown 2.6.4.\n  * Removed internal PyYaml and Pygments.  Markdown Preview now uses Package Control dependencies to obtain PyYaml and Pygments.\n  * Update kbd CSS for GitHub.\n  \n  ## 1.0.3\n  \n  * The `messages.json` should OK for this time.\n  \n  ## 1.0.2\n  \n  * Fixes messages.json and changelog versions.\n  \n  ## 1.0.1\n  \n  * Removed markdown2 parser for its not well maintained and buggy.\n  * Make Python Markdown parser as default.\n  * Split the preview commands for *Python Markdown* parser and *GitHub Flavored Markdown* parser.\n  * Add markdown file build support, build parser are config via the origin `\"parser\"` settings.\n  * Add this changelog file for both developers and users.\n  * Add messages.json which make display of `README.md` and `CHANGES.md`\n  * Try use `Markdown Extended.tmLanguage` for cheat sheet if you installed `Markdown Extended`.\n  \n  ## 1.0.0\n  \n  * Support for ST3.\n  * Added Python Markdown parser.\n  * CSS search first in markdown file directory and the the build-in.\n\n  # Changes\n  \n  ## 2.1.0\n  \n  - Add support for KaTeX math.\n  - Ensure MathJax properly looks for `\\begin{env}...\\end{env}`.\n  - Unified menu.\n  \n  ## 2.0.3\n  \n  - MathJax should only scan for `arithmatex` classes in HTML.\n  \n  ## 2.0.2\n  \n  - Code highlighting should have guessing disabled by default.\n  - Fix failure when code highlighting has guessing enabled, but the user specified a language name which has no lexer.\n  \n  ## 2.0.1\n  \n  - Fix missing code highlight extension.\n  - Fix build command failing.\n  \n  ## 2.0.0\n  \n  Please read documentation as there have been big changes in this version which may require updates to your personal settings.\n  \n  * Do not vendor Python Markdown. Python Markdown will be acquired via the current markdown dependency.\n  \n  * Python Markdown configuration changes:\n  \n      * No more defining settings as `extension(option1=a,option2=b)`. Options will be defined as a dictionary.\n      * You will have to define the full extension name: `markdown.extensions.codehilite`. This will allow you to import any extension you want outside of Markdown Preview.\n      * New line to `<br>` conversion has been dropped from GitHub emulation as GitHub no longer does this. Ref issue #374.\n  \n  * Originally a couple pymdownx-extension extensions were ported over to this plugin to give a GitHub-ish feel to Markdown, these are no longer be included directly, but are included as a dependency. This will provide the latest versions, and also provide new extensions previously not included. Ref issue #378.\n  \n  * Drop ST2 so we no longer have to provide specially crafted Python Markdown versions when we try to upgrade.\n  \n  * Improve yaml front matter parsing: see issue #392.\n  \n  * Better UML JavaScript injection.\n  \n  * Link contributors in readme.\n  \n  * Remove \"magic\" Pygments configuration. User will now explicitly configure Pygments CSS injection separately.\n  \n  * Require explicit parser name moving forward instead of default, but provide a deprecation path for the short term.\n  \n  * Fix GitHub header ID generation. GitHub only lowercases ASCII chars.\n  \n  * Ensure default parser is Python Markdown, and enable auto-reload by default.\n  \n  * Hopefully better documentation.\n  \n  * Make flake8 compatible.\n  \n  * Fix outdated links.\n  \n  * Remove MathJax and UML option in favor of a more generalized solution via the pre-existing `css` option.\n  \n  * Remove `embed_css_for_sublime_output` option in favor of more generalized `include_head` option.\n  \n  ## 1.4.3\n  \n  * Fix issue where Chrome prevents live reload.\n  \n  ## 1.4.0\n  \n  * `css` setting can now be an array and contain multiple CSS files (see settings file for more info).\n  * Updated GitHub style to latest.\n  \n  ## 1.3.0\n  \n  * Now supports any markdown parser through a generalized method.  Now you can map a binary to parser name via `markdown_binary_map`.  Then use the parser name in `enabled_parsers` to use it.\n  * MultiMarkdown specific settings have been removed.  MultiMarkdown should now be configured via `markdown_binary_map` and `enabled_parsers`.\n  * Upgraded to Python Markdown 2.6.4.\n  * Removed internal PyYaml and Pygments.  Markdown Preview now uses Package Control dependencies to obtain PyYaml and Pygments.\n  * Update kbd CSS for GitHub.\n  \n  ## 1.0.3\n  \n  * The `messages.json` should OK for this time.\n  \n  ## 1.0.2\n  \n  * Fixes messages.json and changelog versions.\n  \n  ## 1.0.1\n  \n  * Removed markdown2 parser for its not well maintained and buggy.\n  * Make Python Markdown parser as default.\n  * Split the preview commands for *Python Markdown* parser and *GitHub Flavored Markdown* parser.\n  * Add markdown file build support, build parser are config via the origin `\"parser\"` settings.\n  * Add this changelog file for both developers and users.\n  * Add messages.json which make display of `README.md` and `CHANGES.md`\n  * Try use `Markdown Extended.tmLanguage` for cheat sheet if you installed `Markdown Extended`.\n  \n  ## 1.0.0\n  \n  * Support for ST3.\n  * Added Python Markdown parser.\n  * CSS search first in markdown file directory and the the build-in.\n",
 			"settings":
 			{
-				"buffer_size": 207,
-				"line_ending": "Unix"
+				"buffer_size": 8295,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
 			}
 		}
 	],
@@ -580,12 +583,28 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Paz Autumn/Documents/DesarrolloBE/Proyectos/curso-mean2"
+		"/C/Users/Paz Autumn/Documents/DesarrolloBE/Proyectos/curso-mean2",
+		"/C/Users/Paz Autumn/Documents/DesarrolloBE/Proyectos/curso-mean2/controllers",
+		"/C/Users/Paz Autumn/Documents/DesarrolloBE/Proyectos/curso-mean2/models",
+		"/C/Users/Paz Autumn/Documents/DesarrolloBE/Proyectos/curso-mean2/routes"
 	],
 	"file_history":
 	[
-		"/C/Users/Paz Autumn/Documents/DesarrolloBE/Proyectos/validaotp-Desarrollo-CI-7bf284977b0a2358d460a0e326d4a0d51ae90ba5/README.md",
+		"/C/Users/Paz Autumn/Documents/DesarrolloBE/Proyectos/curso-mean2/app.js",
+		"/C/Users/Paz Autumn/Documents/DesarrolloBE/Proyectos/curso-mean2/routes/artist.js",
+		"/C/Users/Paz Autumn/Documents/DesarrolloBE/Proyectos/curso-mean2/controllers/user.js",
+		"/C/Users/Paz Autumn/Documents/DesarrolloBE/Proyectos/curso-mean2/controllers/artist.js",
+		"/C/Users/Paz Autumn/Documents/DesarrolloBE/Proyectos/curso-mean2/package.json",
+		"/C/Users/Paz Autumn/Documents/DesarrolloBE/Proyectos/curso-mean2/index.js",
+		"/C/Users/Paz Autumn/Documents/DesarrolloBE/Proyectos/curso-mean2/models/song.js",
+		"/C/Users/Paz Autumn/Documents/DesarrolloBE/Proyectos/curso-mean2/services/jwt.js",
+		"/C/Users/Paz Autumn/Documents/DesarrolloBE/Proyectos/curso-mean2/routes/user.js",
+		"/C/Users/Paz Autumn/Documents/DesarrolloBE/Proyectos/curso-mean2/middlewares/authenticated.js",
+		"/C/Users/Paz Autumn/Documents/DesarrolloBE/Proyectos/curso-mean2/album.js",
+		"/C/Users/Paz Autumn/Documents/DesarrolloBE/Proyectos/curso-mean2/artist.js",
+		"/C/Users/Paz Autumn/Documents/DesarrolloBE/Proyectos/curso-mean2/user.js",
 		"/C/cygwin_packages/home/Paz Autumn/.bash_profile",
+		"/C/Users/Paz Autumn/Documents/DesarrolloBE/Proyectos/validaotp-Desarrollo-CI-7bf284977b0a2358d460a0e326d4a0d51ae90ba5/README.md",
 		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/PazAutumn/assets/css/style.css",
 		"/C/Users/Paz Autumn/Documents/Laboratoria/especialización/PazAutumn/index.html",
 		"/C/Users/Paz Autumn/Documents/Laboratoria/Hackathon-2/BikeSantiago/src/App.js",
@@ -698,24 +717,11 @@
 		"/C/Users/Paz Autumn/Documents/Laboratoria/Documentos/fullstack-workshop-2/index.js",
 		"/C/Users/Paz Autumn/Documents/Laboratoria/Documentos/fullstack-workshop-2/components/AccountForm/AccountForm.js",
 		"/C/Users/Paz Autumn/Documents/Laboratoria/Documentos/workshop/.babelrc",
-		"/C/Users/Paz Autumn/Documents/Laboratoria/Documentos/workshop/index.html",
-		"/C/Users/Paz Autumn/Documents/Laboratoria/Documentos/workshop/components/MovementList/MovementList.css",
-		"/C/Users/Paz Autumn/Documents/Laboratoria/Documentos/workshop/components/MovementList/MovementList.js",
-		"/C/Users/Paz Autumn/Documents/Laboratoria/Documentos/workshop/utils/FinancialAxios.js",
-		"/C/Users/Paz Autumn/Documents/Laboratoria/Documentos/workshop/index.js",
-		"/C/Users/Paz Autumn/Documents/Laboratoria/Documentos/workshop/components/Movement/Movement.css",
-		"/C/Users/Paz Autumn/Documents/Laboratoria/Documentos/workshop/components/Movement/Movement.js",
-		"/C/Users/Paz Autumn/Documents/Laboratoria/Documentos/workshop/package.json",
-		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/lab-car-boilerplate/assets/css/media.css",
-		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/lab-car-boilerplate/assets/css/main.css",
-		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/lab-car-boilerplate/index.html",
-		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/lab-car-boilerplate/js/app.js",
-		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/lab-car-boilerplate/css/main.css",
-		"/C/Users/Paz Autumn/Documents/Laboratoria/Sublime proyectos/lab-car-boilerplate/css/media.css"
+		"/C/Users/Paz Autumn/Documents/Laboratoria/Documentos/workshop/index.html"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 25.0
 	},
 	"find_in_files":
 	{
@@ -755,138 +761,35 @@
 			[
 				{
 					"buffer": 0,
-					"file": "package.json",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 207,
+						"buffer_size": 8295,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								8295,
+								8295
 							]
 						],
 						"settings":
 						{
+							"auto_indent": false,
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										205,
-										206
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										0,
-										1
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
 							"bracket_highlighter.locations":
 							{
 								"close":
 								{
-									"1":
-									[
-										205,
-										206
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										0,
-										1
-									]
 								},
 								"unmatched":
 								{
@@ -894,63 +797,65 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
 							],
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -964,7 +869,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 25.0
 	},
 	"input":
 	{
@@ -1009,7 +914,7 @@
 	"project": "proyecto-curso-mean2.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 46.0
 	},
 	"save_all_on_build": true,
 	"select_file":
