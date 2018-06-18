@@ -4,8 +4,8 @@ var path = require('path');
 var fs = require('fs');
 var mongoosePaginate = require('mongoose-pagination')
 var newArtist = require('../models/artist');
-var album = require('../models/album');
-var song = require('../models/song');
+var newAlbum = require('../models/album');
+var newSong = require('../models/song');
 
 function getArtist(req, res){
 	var artistId = req.params.id;
